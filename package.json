@@ -22,19 +22,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "WebStorm Default Dark",
+        "label": "Default Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/webstorm-default-color-theme.json"
-      },
-      {
-        "label": "WebStorm Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/webstorm-dark-color-theme.json"
+        "path": "./themes/default-dark-color-theme.json"
       },
       {
         "label": "WebStorm Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/webstorm-darcula-color-theme.json"
+      },
+      {
+        "label": "WebStorm Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webstorm-dark-color-theme.json"
       }
     ]
   }

@@ -22,11 +22,6 @@
   "contributes": {
     "themes": [
       {
-        "label": "Default Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/default-dark-color-theme.json"
-      },
-      {
         "label": "WebStorm Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/webstorm-darcula-color-theme.json"

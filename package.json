@@ -4,6 +4,11 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "SeptWong",
+  "icon": "assets/images/logo.png",
+  "galleryBanner": {
+    "color": "#1e1f22",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -12,12 +17,20 @@
     "url": "https://github.com/septwong/vscode-webstorm-theme"
   },
   "bugs": {
-    "url": "https://github.com/septwong/vscode-webstorm-theme/issues"
+    "url": "https://github.com/septwong/vscode-webstorm-theme/issues",
+    "email": "septwong@foxmail.com"
   },
-  "icon": "assets/images/logo.png",
   "license": "MIT",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "jetbrains",
+    "intellij",
+    "webstorm"
   ],
   "contributes": {
     "themes": [
@@ -30,6 +43,26 @@
         "label": "WebStorm Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/webstorm-dark-color-theme.json"
+      },
+      {
+        "label": "Webstorm New Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/new_dark.json"
+      },
+      {
+        "label": "Webstorm New Darcula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/new_darcula.json"
+      },
+      {
+        "label": "Webstorm New Light",
+        "uiTheme": "vs",
+        "path": "./themes/new_light.json"
+      },
+      {
+        "label": "Webstorm New Light with Dark Header",
+        "uiTheme": "vs",
+        "path": "./themes/new_light_with_darkHeader.json"
       }
     ]
   }

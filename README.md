@@ -15,4 +15,10 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
+## Resources
+
+- [WebStorm New UI](https://www.jetbrains.com/help/webstorm/new-ui.html)
+- [WebStorm New UI Theme](https://marketplace.visualstudio.com/items?itemName=eenaree.webstorm-new-dark)
+- [Webstorm Ui Theme For vscode](https://marketplace.visualstudio.com/items?itemName=hylong.webstorm-theme-vscode)
+
 **Enjoy!**

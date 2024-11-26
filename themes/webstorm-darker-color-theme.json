@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "WebStorm Dark",
+  "name": "WebStorm Darker",
   "type": "dark",
   "colors": {
     "titleBar.activeBackground": "#2b2d30",

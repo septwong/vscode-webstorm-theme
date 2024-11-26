@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Webstorm Darcula",
+  "name": "WebStorm Darcula",
   "type": "dark",
   "colors": {
     "titleBar.activeBackground": "#3c3f41",

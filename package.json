@@ -45,6 +45,11 @@
         "path": "./themes/webstorm-dark-color-theme.json"
       },
       {
+        "label": "WebStorm Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webstorm-darker-color-theme.json"
+      },
+      {
         "label": "Webstorm New Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/new_dark.json"

@@ -1,0 +1,41 @@
+{
+  "name": "vscode-webstorm-theme",
+  "displayName": "WebStorm Theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "SeptWong",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/septwong/vscode-webstorm-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/septwong/vscode-webstorm-theme/issues"
+  },
+  "icon": "assets/images/logo.png",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WebStorm Default Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webstorm-default-color-theme.json"
+      },
+      {
+        "label": "WebStorm Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webstorm-dark-color-theme.json"
+      },
+      {
+        "label": "WebStorm Darcula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webstorm-darcula-color-theme.json"
+      }
+    ]
+  }
+}

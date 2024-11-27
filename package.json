@@ -35,6 +35,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "WebStorm Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webstorm-darker-color-theme.json"
+      },
+      {
         "label": "WebStorm Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/webstorm-darcula-color-theme.json"
@@ -45,11 +50,6 @@
         "path": "./themes/webstorm-dark-color-theme.json"
       },
       {
-        "label": "WebStorm Darker",
-        "uiTheme": "vs-dark",
-        "path": "./themes/webstorm-darker-color-theme.json"
-      },
-      {
         "label": "Webstorm New Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/new_dark.json"
@@ -58,16 +58,6 @@
         "label": "Webstorm New Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/new_darcula.json"
-      },
-      {
-        "label": "Webstorm New Light",
-        "uiTheme": "vs",
-        "path": "./themes/new_light.json"
-      },
-      {
-        "label": "Webstorm New Light with Dark Header",
-        "uiTheme": "vs",
-        "path": "./themes/new_light_with_darkHeader.json"
       }
     ]
   }

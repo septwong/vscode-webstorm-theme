@@ -2,23 +2,30 @@
 
 # WebStorm Theme
 
-## Working with Markdown
+> WebStorm Theme for VS Code
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Preview
 
-## For more information
+### WebStorm Darker
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![WebStorm Darker]()
+
+## Documents
+
+- [WebStorm New UI](https://www.jetbrains.com/help/webstorm/new-ui.html)
+- [Color Theme](https://code.visualstudio.com/api/extension-guides/color-theme)
+- [References Theme Color](https://code.visualstudio.com/api/references/theme-color)
+- [Creating a VS Code theme](https://css-tricks.com/creating-a-vs-code-theme/)
 
 ## Resources
 
-- [WebStorm New UI](https://www.jetbrains.com/help/webstorm/new-ui.html)
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [WebStorm New UI Theme](https://marketplace.visualstudio.com/items?itemName=eenaree.webstorm-new-dark)
 - [Webstorm Ui Theme For vscode](https://marketplace.visualstudio.com/items?itemName=hylong.webstorm-theme-vscode)
 
-**Enjoy!**
+## Contact
+
+If there are any issues, please contact `septwong@foxmail.com`
+
+**🎉 Enjoy!**

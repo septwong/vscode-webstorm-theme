@@ -4,7 +4,15 @@
 
 > WebStorm Theme for VS Code
 
-This extension combines multiple WebStorm theme extensions, but also adapts and combines them to create a new WebStorm theme.
+## Overview
+
+This extension integrates multiple WebStorm themes, but also creates a new WebStorm theme.
+
+- WebStorm Darker
+- WebStorm Darcula
+- WebStorm Dark
+- WebStorm New Dark
+- WebStorm New Darcula
 
 ## Preview
 

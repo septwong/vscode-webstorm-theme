@@ -49,12 +49,12 @@
         "path": "./themes/webstorm-dark-color-theme.json"
       },
       {
-        "label": "Webstorm New Dark",
+        "label": "WebStorm New Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/new_dark.json"
       },
       {
-        "label": "Webstorm New Darcula",
+        "label": "WebStorm New Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/new_darcula.json"
       }

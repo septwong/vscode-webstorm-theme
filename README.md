@@ -1,4 +1,4 @@
-<img align="right" width="90px" src="./assets/images/logo.png" alt="markdown-syntax logo" />
+<img align="right" width="90px" src="https://raw.githubusercontent.com/septwong/vscode-webstorm-theme/main/assets/images/logo.png" alt="markdown-syntax logo" />
 
 # WebStorm Theme
 

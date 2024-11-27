@@ -4,12 +4,13 @@
 
 > WebStorm Theme for VS Code
 
+This extension combines multiple WebStorm theme extensions, but also adapts and combines them to create a new WebStorm theme.
 
 ## Preview
 
 ### WebStorm Darker
 
-![WebStorm Darker]()
+![WebStorm Darker](https://raw.githubusercontent.com/septwong/vscode-webstorm-theme/main/assets/images/preview_webstorm_darker.png)
 
 ## Documents
 
@@ -26,6 +27,6 @@
 
 ## Contact
 
-If there are any issues, please contact `septwong@foxmail.com`
+septwong@foxmail.com
 
 **🎉 Enjoy!**

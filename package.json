@@ -1,7 +1,7 @@
 {
   "name": "vscode-webstorm-theme",
   "displayName": "WebStorm Theme",
-  "description": "",
+  "description": "A WebStorm Theme Plugin for VS Code",
   "version": "0.0.1",
   "publisher": "SeptWong",
   "icon": "assets/images/logo.png",
@@ -26,11 +26,10 @@
   ],
   "keywords": [
     "theme",
+    "webstorm",
     "dark theme",
-    "light theme",
     "jetbrains",
-    "intellij",
-    "webstorm"
+    "intellij"
   ],
   "contributes": {
     "themes": [

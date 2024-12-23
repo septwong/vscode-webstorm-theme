@@ -7,9 +7,9 @@
 ![Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/septwong.vscode-webstorm-theme)&nbsp;
 ![Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/septwong.vscode-webstorm-theme)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/septwong/vscode-webstorm-theme/main/LICENSE)&nbsp;
-<a href="https://github.com/septwong/vscode-webstorm-theme">
+<!-- <a href="https://github.com/septwong/vscode-webstorm-theme">
     <img alt="vscode-webstorm-theme Repo stars" src="https://img.shields.io/github/stars/septwong/vscode-webstorm-theme">
-</a>
+</a> -->
 
 > WebStorm Theme for VS Code
 

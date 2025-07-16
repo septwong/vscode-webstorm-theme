@@ -317,6 +317,9 @@
       "fontStyle": "underline"
     },
     "class": {
+      "foreground": "#0133b3"
+    },
+    "class.declaration": {
       "foreground": "#080808"
     },
     "class.defaultLibrary": {
@@ -325,11 +328,15 @@
     "property": {
       "foreground": "#861194"
     },
-    "property.defaultLibrary": {
+    "property.static": {
       "fontStyle": "italic"
     },
     "method": {
-      "foreground": "#7a7a43"
+      "foreground": "#914C07"
+    },
+    "method.static": {
+      "foreground": "#006279",
+      "fontStyle": "italic"
     }
   },
   "tokenColors": [
@@ -343,7 +350,7 @@
     {
       "scope": ["storage.type.class.jsdoc"],
       "settings": {
-        "foreground": "#8c8c8c",
+        "foreground": "#080808",
         "fontStyle": "italic underline"
       }
     },
@@ -435,6 +442,7 @@
         "string",
         "markup.inline.raw",
         "markup.quote",
+        "punctuation.definition.string",
         "punctuation.definition.metadata.markdown",
         "punctuation.separator.key-value.html",
         "property.value.dotenv",
@@ -465,6 +473,7 @@
     },
     {
       "scope": [
+        "source.vue punctuation.attribute-shorthand",
         "meta.property-list variable.css",
         "entity.other.attribute-name",
         "support.type.property-name",
@@ -500,6 +509,7 @@
         "string variable",
         "source.yaml string.unquoted",
         "source.yaml constant.language.boolean",
+        "keyword.generator.asterisk",
         "keyword.operator",
         "keyword.other.unit.percentage",
         "keyword.other.back-reference.regexp",

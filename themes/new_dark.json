@@ -314,6 +314,9 @@
       "fontStyle": "italic"
     },
     "class": {
+      "foreground": "#2ebaa3"
+    },
+    "class.declaration": {
       "foreground": "#bcbec3"
     },
     "class.defaultLibrary": {
@@ -323,8 +326,11 @@
     "property": {
       "foreground": "#c77dbb"
     },
-    "property.defaultLibrary": {
-      "foreground": "#14c4b6"
+    "property.static": {
+      "fontStyle": "italic"
+    },
+    "method.static": {
+      "fontStyle": "italic"
     }
   },
   "tokenColors": [
@@ -430,6 +436,7 @@
     {
       "scope": [
         "string",
+        "punctuation.definition.string",
         "punctuation.definition.metadata.markdown",
         "markup.inline.raw",
         "markup.quote",
@@ -494,6 +501,7 @@
         "source.yaml string.unquoted",
         "source.yaml constant.language.boolean",
         "punctuation.accessor",
+        "keyword.generator.asterisk",
         "keyword.operator",
         "keyword.other.unit.percentage",
         "keyword.other.back-reference.regexp",
@@ -514,6 +522,7 @@
     },
     {
       "scope": [
+        "source.vue punctuation.attribute-shorthand",
         "meta.property-list variable.css",
         "entity.other.attribute-name",
         "support.type.property-name",
@@ -611,7 +620,8 @@
         "source.css entity.name.function",
         "source.css support.type.map.key",
         "source.css support.constant.language-range",
-        "source.css support.function"
+        "source.css support.function",
+        "text.html.derivative entity.name.tag.template.html.vue"
       ],
       "settings": {
         "foreground": "#d5b778"

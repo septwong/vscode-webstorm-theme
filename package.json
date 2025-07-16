@@ -2,7 +2,7 @@
   "name": "vscode-webstorm-theme",
   "displayName": "WebStorm New Theme",
   "description": "A WebStorm Theme Plugin for VS Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "SeptWong",
   "icon": "assets/images/logo.png",
   "galleryBanner": {

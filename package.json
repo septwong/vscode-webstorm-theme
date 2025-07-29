@@ -36,7 +36,7 @@
       {
         "label": "WebStorm Darker",
         "uiTheme": "vs-dark",
-        "path": "./themes/webstorm-darker-color-theme.json"
+        "path": "./themes/ws-darker-color-theme.json"
       },
       {
         "label": "WebStorm Darcula",
@@ -57,6 +57,11 @@
         "label": "WebStorm New Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/new_darcula.json"
+      },
+      {
+        "label": "WebStorm Light",
+        "uiTheme": "vs",
+        "path": "./themes/ws-light-color-theme.json"
       }
     ]
   }

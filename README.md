@@ -23,6 +23,7 @@ This extension integrates multiple WebStorm themes, but also creates a new WebSt
 - WebStorm Dark
 - WebStorm New Dark
 - WebStorm New Darcula
+- WebStorm Light
 
 ## Preview
 

@@ -2346,6 +2346,9 @@
     // webstorm dark end ----------------
   ],
   "colors": {
+    // custom -- webstorm dark start----------------
+    "git.blame.editorDecorationForeground":"#53555C",
+    // custom -- webstorm dark end----------------
     "actionBar.toggledBackground": "#525761",
     "activityBar.background": "#23272e",
     "activityBar.foreground": "#d7dae0",

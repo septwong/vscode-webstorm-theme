@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased] -->
 
+#### `1.0.3` 2025-08-07
+
+- Update `Webstorm Darker` colors
+
 #### `1.0.2` 2025-07-29
 
 - Add `Webstorm Light`

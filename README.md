@@ -1,4 +1,4 @@
-<img align="right" width="90px" src="https://raw.githubusercontent.com/septwong/vscode-webstorm-theme/main/assets/images/logo.png" alt="vscode-webstorm-theme logo" />
+<!-- <img align="right" width="90px" src="https://raw.githubusercontent.com/septwong/vscode-webstorm-theme/main/assets/images/logo.png" alt="vscode-webstorm-theme logo" /> -->
 
 # WebStorm New Theme
 
@@ -43,6 +43,7 @@ This extension integrates multiple WebStorm themes, but also creates a new WebSt
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [WebStorm New UI Theme](https://marketplace.visualstudio.com/items?itemName=eenaree.webstorm-new-dark)
 - [Webstorm Ui Theme For vscode](https://marketplace.visualstudio.com/items?itemName=hylong.webstorm-theme-vscode)
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/themes/expUI)
 
 ## Contact
 

@@ -7,9 +7,9 @@
     "annotation:dart": {
       "foreground": "#d19a66"
     },
-    "enumMember": {
-      "foreground": "#56b6c2"
-    },
+    // "enumMember": {
+    //   "foreground": "#56b6c2"
+    // },
     "macro": {
       "foreground": "#d19a66"
     },
@@ -31,50 +31,66 @@
     "variable.constant": {
       "foreground": "#d19a66"
     },
-    "variable.defaultLibrary": {
-      "foreground": "#e5c07b"
-    },
+    // "variable.defaultLibrary": {
+    //   "foreground": "#e5c07b"
+    // },
     // webstorm dark start ----------------
     "namespace": {
-      "foreground": "#bcbec3"
+      "foreground": "#bcbec4"
     },
-    "variable": "#a9b7c5",
-    "variable.local.readonly": "#a9b7c5",
+    "variable": "#bcbec4",
+    "variable.readonly": {
+      "foreground": "#c77dbb",
+      "fontStyle": "bold"
+    },
+    // "variable.local.readonly": "#bcbec4",
     "variable.defaultLibrary": {
       "foreground": "#c77dbb"
     },
     "parameter": "#c77dbb",
     "parameter.declaration": "#c77dbb",
-    "type": "#bcbec3",
-    "typeParameter": "#507874",
-    "interface": "#bcbec3",
-    "interface.decorator": "#bcbec3",
-    "class": "#2FBAA3",
-    "class.declaration": "#2FBAA3",
+    "type": "#bcbec4",
+    "typeParameter": "#50A1AD",
+    "interface": "#bcbec4",
+    "interface.decorator": "#bcbec4",
+    "class": "#bcbec4",
+    "class.declaration": "#bcbec4",
     "property": "#c77dbb",
     "property.declaration": "#c77dbb",
+    "property.readonly": {
+      "foreground": "#c77dbb",
+      "fontStyle": "italic"
+    },
     "property.defaultLibrary": {
-      "foreground": "#c77dbb"
+      "foreground": "#c77dbb",
     },
     "method": "#56A8F5",
+    "method.static": {
+      "foreground": "#56A8F5",
+      "fontStyle": "italic"
+    },
     "method.defaultLibrary": {
-      "foreground": "#56A8F5"
+      "foreground": "#56A8F5",
     },
     "method.declaration": "#56A8F5",
     "comment": "#7A7E85",
-    "enum": "#BCBEC3",
-    "enumMember": "#c77dbb",
-    "label": "#BCBEC3",
+    "enum": "#bcbec4",
+    "enumMember": "#bcbec4",
+    "enumMember.declaration": "#bcbec4",
+    "enumMember.readonly.declaration": "#bcbec4",
+    "label": "#bcbec4",
     "number": "#2AACB8",
     "string": "#6AAB73",
     "keyword": "#CF8E6D",
-    "operator": "#BCBEC3",
+    "operator": "#bcbec4",
     "function": "#56A8F5",
     "function.declaration": "#56A8F5",
     "function.readonly": "#56A8F5",
-    "function.declaration.readonly": "#56A8F5",
+    "function.defaultLibrary": "#56A8F5",
     "decorator": "#B3AE60",
-    "decorator.declaration": "#B3AE60"
+    "decorator.declaration": "#B3AE60",
+    "constant.language": "#CF8E6D",
+    "boolean": "#CF8E6D"
     // webstorm dark end ----------------
   },
   "tokenColors": [
@@ -2152,7 +2168,7 @@
         "meta.type.infer entity.name.type"
       ],
       "settings": {
-        "foreground": "#507874"
+        "foreground": "#50A1AD"
       }
     },
     {
@@ -2181,7 +2197,7 @@
         "storage.type.function.arrow"
       ],
       "settings": {
-        "foreground": "#bcbec3"
+        "foreground": "#bcbec4"
       }
     },
     {
@@ -2212,7 +2228,7 @@
         "variable.other.object"
       ],
       "settings": {
-        "foreground": "#a9b7c5"
+        "foreground": "#bcbec4"
       }
     },
     {
@@ -2310,7 +2326,7 @@
     {
       "scope": ["punctuation.decorator"],
       "settings": {
-        "foreground": "#BCBEC3"
+        "foreground": "#bcbec4"
       }
     },
     {

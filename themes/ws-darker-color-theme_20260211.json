@@ -40,7 +40,7 @@
     },
     "variable": "#bcbec4",
     "variable.readonly": {
-      "foreground": "#c77dbb",
+      "foreground": "#bcbec4",
       "fontStyle": "bold"
     },
     // "variable.local.readonly": "#bcbec4",

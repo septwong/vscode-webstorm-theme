@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased] -->
 
+#### `1.0.5` 2026-02-12
+
+- Update `Webstorm Darker` colors
+
 #### `1.0.4` 2026-02-11
 
 - Update multiple themes

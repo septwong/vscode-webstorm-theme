@@ -41,7 +41,7 @@
     "variable": "#bcbec4",
     "variable.readonly": {
       "foreground": "#bcbec4",
-      "fontStyle": "bold"
+      // "fontStyle": "bold"
     },
     // "variable.local.readonly": "#bcbec4",
     "variable.defaultLibrary": {

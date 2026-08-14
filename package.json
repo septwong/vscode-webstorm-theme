@@ -12,6 +12,11 @@
   "engines": {
     "vscode": "^1.90.0"
   },
+  "scripts": {
+    "validate": "node scripts/validate-themes.mjs",
+    "package": "npm run validate && vsce package",
+    "prepublishOnly": "npm run validate"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/septwong/vscode-webstorm-theme"

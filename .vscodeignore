@@ -1,7 +1,12 @@
 .vscode/**
 .vscode-test/**
 .gitignore
-vsc-extension-quickstart.md
-
+AGENTS.md
 CLAUDE.md
+scripts/**
+package-lock.json
+vsc-extension-quickstart.md
 .claude
+themes/demo/**
+*.vsix
+.DS_Store

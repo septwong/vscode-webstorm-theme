@@ -6,6 +6,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased] -->
 
+#### `1.0.7` 2026-10-22
+
+- **WebStorm Darker Theme Updates**
+  - Added Linked Editing background color support for better repeated editing experience
+  - Optimized syntax highlighting colors for improved code readability
+  - Fixed theme configuration structure to ensure consistency with other themes
+
 #### `1.0.6` 2026-08-14
 
 - Update `Webstorm Darker` colors

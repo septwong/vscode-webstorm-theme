@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased] -->
 
+#### `1.1.2` 2026-10-28
+
+- Repackage and republish the extension
+
 #### `1.1.1` 2026-10-28
 
 - Update logo with new SVG version

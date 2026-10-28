@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased] -->
 
+#### `1.1.0` 2026-10-28
+
+- For dark themes, unify all border colors
+
 #### `1.0.7` 2026-10-22
 
 - **WebStorm Darker Theme Updates**

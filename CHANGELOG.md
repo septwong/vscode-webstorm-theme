@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased] -->
 
+#### `1.1.4` 2026-11-12
+
+- Adjust theme border colors and remove redundant theme configuration
+
 #### `1.1.3` 2026-10-29
 
 - Add editor overview ruler border color for WebStorm Darker
